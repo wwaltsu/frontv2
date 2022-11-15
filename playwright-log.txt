@@ -1,37 +1,749 @@
-{"level":30,"time":"2022-11-08T12:17:41.780Z","pid":25864,"hostname":"SELNK1350000208","msg":"Listening on 54855"}
-{"level":30,"time":"2022-11-08T12:17:41.803Z","pid":25864,"hostname":"SELNK1350000208","msg":"Start of node method getBrowserCatalog"}
-{"level":30,"time":"2022-11-08T12:17:41.804Z","pid":25864,"hostname":"SELNK1350000208","msg":"End of node method getBrowserCatalog"}
-{"level":30,"time":"2022-11-08T12:17:41.807Z","pid":25864,"hostname":"SELNK1350000208","msg":"Start of node method getBrowserCatalog"}
-{"level":30,"time":"2022-11-08T12:17:41.807Z","pid":25864,"hostname":"SELNK1350000208","msg":"End of node method getBrowserCatalog"}
-{"level":30,"time":"2022-11-08T12:17:46.893Z","pid":25864,"hostname":"SELNK1350000208","msg":"Start of node method newBrowser"}
-{"level":30,"time":"2022-11-08T12:17:50.139Z","pid":25864,"hostname":"SELNK1350000208","msg":"End of node method newBrowser"}
-{"level":30,"time":"2022-11-08T12:17:50.144Z","pid":25864,"hostname":"SELNK1350000208","msg":"Start of node method newPage"}
-{"level":30,"time":"2022-11-08T12:17:50.144Z","pid":25864,"hostname":"SELNK1350000208","msg":"currentBrowser: [object Object]"}
-{"level":30,"time":"2022-11-08T12:17:50.162Z","pid":25864,"hostname":"SELNK1350000208","msg":"Changed active context"}
-{"level":30,"time":"2022-11-08T12:17:50.477Z","pid":25864,"hostname":"SELNK1350000208","msg":"Video path: undefined"}
-{"level":30,"time":"2022-11-08T12:17:50.477Z","pid":25864,"hostname":"SELNK1350000208","msg":"Changed active page"}
-{"level":30,"time":"2022-11-08T12:17:51.244Z","pid":25864,"hostname":"SELNK1350000208","msg":"End of node method newPage"}
-{"level":30,"time":"2022-11-08T12:17:51.251Z","pid":25864,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
-{"level":30,"time":"2022-11-08T12:17:51.252Z","pid":25864,"hostname":"SELNK1350000208","msg":"Strict mode is enabled, find Locator with //*[@id=\"root\"]/div/div/table/tbody/tr[2]/td/p[1]/strong in page."}
-{"level":30,"time":"2022-11-08T12:17:51.668Z","pid":25864,"hostname":"SELNK1350000208","msg":"Retrieved text for element //*[@id=\"root\"]/div/div/table/tbody/tr[2]/td/p[1]/strong containing Buffet 11,30 € "}
-{"level":30,"time":"2022-11-08T12:17:51.669Z","pid":25864,"hostname":"SELNK1350000208","msg":"End of node method getText"}
-{"level":30,"time":"2022-11-08T12:17:51.678Z","pid":25864,"hostname":"SELNK1350000208","msg":"Start of node method getBrowserCatalog"}
-{"level":30,"time":"2022-11-08T12:17:51.683Z","pid":25864,"hostname":"SELNK1350000208","msg":"End of node method getBrowserCatalog"}
-{"level":30,"time":"2022-11-08T12:17:51.690Z","pid":25864,"hostname":"SELNK1350000208","msg":"Changed active context"}
-{"level":30,"time":"2022-11-08T12:17:51.690Z","pid":25864,"hostname":"SELNK1350000208","msg":"Changing current active page"}
-{"level":30,"time":"2022-11-08T12:17:51.691Z","pid":25864,"hostname":"SELNK1350000208","msg":"Changed active page"}
-{"level":30,"time":"2022-11-08T12:17:51.697Z","pid":25864,"hostname":"SELNK1350000208","msg":"Start of node method getBrowserCatalog"}
-{"level":30,"time":"2022-11-08T12:17:51.703Z","pid":25864,"hostname":"SELNK1350000208","msg":"End of node method getBrowserCatalog"}
-{"level":30,"time":"2022-11-08T12:17:51.708Z","pid":25864,"hostname":"SELNK1350000208","msg":"Start of node method switchBrowser"}
-{"level":30,"time":"2022-11-08T12:17:51.708Z","pid":25864,"hostname":"SELNK1350000208","msg":"End of node method switchBrowser"}
-{"level":30,"time":"2022-11-08T12:17:51.711Z","pid":25864,"hostname":"SELNK1350000208","msg":"Start of node method switchBrowser"}
-{"level":30,"time":"2022-11-08T12:17:51.712Z","pid":25864,"hostname":"SELNK1350000208","msg":"End of node method switchBrowser"}
-{"level":30,"time":"2022-11-08T12:17:51.722Z","pid":25864,"hostname":"SELNK1350000208","msg":"Changed active context"}
-{"level":30,"time":"2022-11-08T12:17:51.723Z","pid":25864,"hostname":"SELNK1350000208","msg":"Changing current active page"}
-{"level":30,"time":"2022-11-08T12:17:51.723Z","pid":25864,"hostname":"SELNK1350000208","msg":"Changed active page"}
-{"level":30,"time":"2022-11-08T12:17:51.726Z","pid":25864,"hostname":"SELNK1350000208","msg":"Start of node method closeContext"}
-{"level":30,"time":"2022-11-08T12:17:51.779Z","pid":25864,"hostname":"SELNK1350000208","msg":"End of node method closeContext"}
-{"level":30,"time":"2022-11-08T12:17:51.783Z","pid":25864,"hostname":"SELNK1350000208","msg":"Start of node method getBrowserCatalog"}
-{"level":30,"time":"2022-11-08T12:17:51.783Z","pid":25864,"hostname":"SELNK1350000208","msg":"End of node method getBrowserCatalog"}
-{"level":30,"time":"2022-11-08T12:17:51.826Z","pid":25864,"hostname":"SELNK1350000208","msg":"Start of node method closeAllBrowsers"}
-{"level":30,"time":"2022-11-08T12:17:51.953Z","pid":25864,"hostname":"SELNK1350000208","msg":"End of node method closeAllBrowsers"}
+{"level":30,"time":"2022-11-08T13:42:50.933Z","pid":20260,"hostname":"SELNK1350000208","msg":"Listening on 59026"}
+{"level":30,"time":"2022-11-08T13:42:51.371Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-11-08T13:42:51.371Z","pid":20260,"hostname":"SELNK1350000208","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-11-08T13:42:51.375Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-11-08T13:42:51.375Z","pid":20260,"hostname":"SELNK1350000208","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-11-08T13:43:31.540Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method newBrowser"}
+{"level":30,"time":"2022-11-08T13:43:34.319Z","pid":20260,"hostname":"SELNK1350000208","msg":"End of node method newBrowser"}
+{"level":30,"time":"2022-11-08T13:43:34.325Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
+{"level":30,"time":"2022-11-08T13:43:34.326Z","pid":20260,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
+    at findLocator (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6140:3)
+    at getText (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6704:25)
+    at PlaywrightServer.getText (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:7757:34)
+    at handleUnary (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:718:13)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+=============================================================
+{"level":30,"time":"2022-11-08T13:43:34.357Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
+{"level":30,"time":"2022-11-08T13:43:34.357Z","pid":20260,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
+    at findLocator (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6140:3)
+    at getText (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6704:25)
+    at PlaywrightServer.getText (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:7757:34)
+    at handleUnary (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:718:13)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+=============================================================
+{"level":30,"time":"2022-11-08T13:43:34.371Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
+{"level":30,"time":"2022-11-08T13:43:34.371Z","pid":20260,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
+    at findLocator (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6140:3)
+    at getText (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6704:25)
+    at PlaywrightServer.getText (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:7757:34)
+    at handleUnary (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:718:13)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+=============================================================
+{"level":30,"time":"2022-11-08T13:43:34.386Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
+{"level":30,"time":"2022-11-08T13:43:34.386Z","pid":20260,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
+    at findLocator (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6140:3)
+    at getText (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6704:25)
+    at PlaywrightServer.getText (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:7757:34)
+    at handleUnary (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:718:13)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+=============================================================
+{"level":30,"time":"2022-11-08T13:43:34.402Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
+{"level":30,"time":"2022-11-08T13:43:34.402Z","pid":20260,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
+    at findLocator (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6140:3)
+    at getText (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6704:25)
+    at PlaywrightServer.getText (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:7757:34)
+    at handleUnary (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:718:13)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+=============================================================
+{"level":30,"time":"2022-11-08T13:43:34.416Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
+{"level":30,"time":"2022-11-08T13:43:34.416Z","pid":20260,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
+    at findLocator (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6140:3)
+    at getText (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6704:25)
+    at PlaywrightServer.getText (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:7757:34)
+    at handleUnary (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:718:13)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+=============================================================
+{"level":30,"time":"2022-11-08T13:43:34.432Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
+{"level":30,"time":"2022-11-08T13:43:34.432Z","pid":20260,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
+    at findLocator (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6140:3)
+    at getText (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6704:25)
+    at PlaywrightServer.getText (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:7757:34)
+    at handleUnary (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:718:13)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+=============================================================
+{"level":30,"time":"2022-11-08T13:43:34.447Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
+{"level":30,"time":"2022-11-08T13:43:34.447Z","pid":20260,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
+    at findLocator (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6140:3)
+    at getText (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6704:25)
+    at PlaywrightServer.getText (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:7757:34)
+    at handleUnary (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:718:13)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+=============================================================
+{"level":30,"time":"2022-11-08T13:43:34.462Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
+{"level":30,"time":"2022-11-08T13:43:34.463Z","pid":20260,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
+    at findLocator (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6140:3)
+    at getText (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6704:25)
+    at PlaywrightServer.getText (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:7757:34)
+    at handleUnary (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:718:13)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+=============================================================
+{"level":30,"time":"2022-11-08T13:43:34.478Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
+{"level":30,"time":"2022-11-08T13:43:34.478Z","pid":20260,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
+    at findLocator (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6140:3)
+    at getText (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6704:25)
+    at PlaywrightServer.getText (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:7757:34)
+    at handleUnary (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:718:13)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+=============================================================
+{"level":30,"time":"2022-11-08T13:43:34.493Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
+{"level":30,"time":"2022-11-08T13:43:34.494Z","pid":20260,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
+    at findLocator (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6140:3)
+    at getText (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6704:25)
+    at PlaywrightServer.getText (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:7757:34)
+    at handleUnary (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:718:13)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+=============================================================
+{"level":30,"time":"2022-11-08T13:43:34.509Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
+{"level":30,"time":"2022-11-08T13:43:34.509Z","pid":20260,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
+    at findLocator (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6140:3)
+    at getText (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6704:25)
+    at PlaywrightServer.getText (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:7757:34)
+    at handleUnary (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:718:13)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+=============================================================
+{"level":30,"time":"2022-11-08T13:43:34.523Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
+{"level":30,"time":"2022-11-08T13:43:34.524Z","pid":20260,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
+    at findLocator (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6140:3)
+    at getText (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6704:25)
+    at PlaywrightServer.getText (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:7757:34)
+    at handleUnary (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:718:13)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+=============================================================
+{"level":30,"time":"2022-11-08T13:43:34.539Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
+{"level":30,"time":"2022-11-08T13:43:34.539Z","pid":20260,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
+    at findLocator (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6140:3)
+    at getText (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6704:25)
+    at PlaywrightServer.getText (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:7757:34)
+    at handleUnary (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:718:13)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+=============================================================
+{"level":30,"time":"2022-11-08T13:43:34.554Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
+{"level":30,"time":"2022-11-08T13:43:34.554Z","pid":20260,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
+    at findLocator (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6140:3)
+    at getText (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6704:25)
+    at PlaywrightServer.getText (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:7757:34)
+    at handleUnary (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:718:13)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+=============================================================
+{"level":30,"time":"2022-11-08T13:43:34.570Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
+{"level":30,"time":"2022-11-08T13:43:34.570Z","pid":20260,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
+    at findLocator (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6140:3)
+    at getText (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6704:25)
+    at PlaywrightServer.getText (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:7757:34)
+    at handleUnary (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:718:13)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+=============================================================
+{"level":30,"time":"2022-11-08T13:43:34.585Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
+{"level":30,"time":"2022-11-08T13:43:34.586Z","pid":20260,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
+    at findLocator (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6140:3)
+    at getText (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6704:25)
+    at PlaywrightServer.getText (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:7757:34)
+    at handleUnary (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:718:13)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+=============================================================
+{"level":30,"time":"2022-11-08T13:43:34.600Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
+{"level":30,"time":"2022-11-08T13:43:34.600Z","pid":20260,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
+    at findLocator (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6140:3)
+    at getText (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6704:25)
+    at PlaywrightServer.getText (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:7757:34)
+    at handleUnary (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:718:13)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+=============================================================
+{"level":30,"time":"2022-11-08T13:43:34.617Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
+{"level":30,"time":"2022-11-08T13:43:34.617Z","pid":20260,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
+    at findLocator (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6140:3)
+    at getText (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6704:25)
+    at PlaywrightServer.getText (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:7757:34)
+    at handleUnary (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:718:13)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+=============================================================
+{"level":30,"time":"2022-11-08T13:43:34.632Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
+{"level":30,"time":"2022-11-08T13:43:34.632Z","pid":20260,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
+    at findLocator (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6140:3)
+    at getText (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6704:25)
+    at PlaywrightServer.getText (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:7757:34)
+    at handleUnary (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:718:13)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+=============================================================
+{"level":30,"time":"2022-11-08T13:43:34.647Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
+{"level":30,"time":"2022-11-08T13:43:34.648Z","pid":20260,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
+    at findLocator (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6140:3)
+    at getText (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6704:25)
+    at PlaywrightServer.getText (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:7757:34)
+    at handleUnary (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:718:13)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+=============================================================
+{"level":30,"time":"2022-11-08T13:43:34.662Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
+{"level":30,"time":"2022-11-08T13:43:34.663Z","pid":20260,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
+    at findLocator (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6140:3)
+    at getText (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6704:25)
+    at PlaywrightServer.getText (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:7757:34)
+    at handleUnary (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:718:13)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+=============================================================
+{"level":30,"time":"2022-11-08T13:43:34.678Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
+{"level":30,"time":"2022-11-08T13:43:34.678Z","pid":20260,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
+    at findLocator (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6140:3)
+    at getText (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6704:25)
+    at PlaywrightServer.getText (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:7757:34)
+    at handleUnary (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:718:13)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+=============================================================
+{"level":30,"time":"2022-11-08T13:43:34.694Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
+{"level":30,"time":"2022-11-08T13:43:34.694Z","pid":20260,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
+    at findLocator (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6140:3)
+    at getText (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6704:25)
+    at PlaywrightServer.getText (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:7757:34)
+    at handleUnary (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:718:13)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+=============================================================
+{"level":30,"time":"2022-11-08T13:43:34.709Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
+{"level":30,"time":"2022-11-08T13:43:34.710Z","pid":20260,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
+    at findLocator (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6140:3)
+    at getText (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6704:25)
+    at PlaywrightServer.getText (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:7757:34)
+    at handleUnary (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:718:13)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+=============================================================
+{"level":30,"time":"2022-11-08T13:43:34.724Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
+{"level":30,"time":"2022-11-08T13:43:34.724Z","pid":20260,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
+    at findLocator (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6140:3)
+    at getText (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6704:25)
+    at PlaywrightServer.getText (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:7757:34)
+    at handleUnary (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:718:13)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+=============================================================
+{"level":30,"time":"2022-11-08T13:43:34.740Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
+{"level":30,"time":"2022-11-08T13:43:34.740Z","pid":20260,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
+    at findLocator (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6140:3)
+    at getText (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6704:25)
+    at PlaywrightServer.getText (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:7757:34)
+    at handleUnary (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:718:13)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+=============================================================
+{"level":30,"time":"2022-11-08T13:43:34.756Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
+{"level":30,"time":"2022-11-08T13:43:34.756Z","pid":20260,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
+    at findLocator (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6140:3)
+    at getText (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6704:25)
+    at PlaywrightServer.getText (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:7757:34)
+    at handleUnary (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:718:13)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+=============================================================
+{"level":30,"time":"2022-11-08T13:43:34.771Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
+{"level":30,"time":"2022-11-08T13:43:34.771Z","pid":20260,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
+    at findLocator (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6140:3)
+    at getText (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6704:25)
+    at PlaywrightServer.getText (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:7757:34)
+    at handleUnary (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:718:13)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+=============================================================
+{"level":30,"time":"2022-11-08T13:43:34.786Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
+{"level":30,"time":"2022-11-08T13:43:34.786Z","pid":20260,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
+    at findLocator (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6140:3)
+    at getText (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6704:25)
+    at PlaywrightServer.getText (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:7757:34)
+    at handleUnary (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:718:13)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+=============================================================
+{"level":30,"time":"2022-11-08T13:43:34.802Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
+{"level":30,"time":"2022-11-08T13:43:34.802Z","pid":20260,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
+    at findLocator (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6140:3)
+    at getText (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6704:25)
+    at PlaywrightServer.getText (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:7757:34)
+    at handleUnary (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:718:13)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+=============================================================
+{"level":30,"time":"2022-11-08T13:43:34.816Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
+{"level":30,"time":"2022-11-08T13:43:34.816Z","pid":20260,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
+    at findLocator (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6140:3)
+    at getText (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6704:25)
+    at PlaywrightServer.getText (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:7757:34)
+    at handleUnary (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:718:13)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+=============================================================
+{"level":30,"time":"2022-11-08T13:43:34.833Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
+{"level":30,"time":"2022-11-08T13:43:34.833Z","pid":20260,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
+    at findLocator (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6140:3)
+    at getText (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6704:25)
+    at PlaywrightServer.getText (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:7757:34)
+    at handleUnary (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:718:13)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+=============================================================
+{"level":30,"time":"2022-11-08T13:43:34.848Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
+{"level":30,"time":"2022-11-08T13:43:34.848Z","pid":20260,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
+    at findLocator (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6140:3)
+    at getText (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6704:25)
+    at PlaywrightServer.getText (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:7757:34)
+    at handleUnary (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:718:13)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+=============================================================
+{"level":30,"time":"2022-11-08T13:43:34.863Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
+{"level":30,"time":"2022-11-08T13:43:34.863Z","pid":20260,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
+    at findLocator (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6140:3)
+    at getText (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6704:25)
+    at PlaywrightServer.getText (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:7757:34)
+    at handleUnary (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:718:13)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+=============================================================
+{"level":30,"time":"2022-11-08T13:43:34.878Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
+{"level":30,"time":"2022-11-08T13:43:34.878Z","pid":20260,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
+    at findLocator (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6140:3)
+    at getText (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6704:25)
+    at PlaywrightServer.getText (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:7757:34)
+    at handleUnary (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:718:13)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+=============================================================
+{"level":30,"time":"2022-11-08T13:43:34.894Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
+{"level":30,"time":"2022-11-08T13:43:34.894Z","pid":20260,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
+    at findLocator (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6140:3)
+    at getText (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6704:25)
+    at PlaywrightServer.getText (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:7757:34)
+    at handleUnary (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:718:13)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+=============================================================
+{"level":30,"time":"2022-11-08T13:43:34.908Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
+{"level":30,"time":"2022-11-08T13:43:34.909Z","pid":20260,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
+    at findLocator (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6140:3)
+    at getText (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6704:25)
+    at PlaywrightServer.getText (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:7757:34)
+    at handleUnary (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:718:13)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+=============================================================
+{"level":30,"time":"2022-11-08T13:43:34.924Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
+{"level":30,"time":"2022-11-08T13:43:34.924Z","pid":20260,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
+    at findLocator (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6140:3)
+    at getText (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6704:25)
+    at PlaywrightServer.getText (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:7757:34)
+    at handleUnary (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:718:13)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+=============================================================
+{"level":30,"time":"2022-11-08T13:43:34.939Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
+{"level":30,"time":"2022-11-08T13:43:34.939Z","pid":20260,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
+    at findLocator (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6140:3)
+    at getText (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6704:25)
+    at PlaywrightServer.getText (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:7757:34)
+    at handleUnary (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:718:13)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+=============================================================
+{"level":30,"time":"2022-11-08T13:43:34.955Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
+{"level":30,"time":"2022-11-08T13:43:34.955Z","pid":20260,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
+    at findLocator (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6140:3)
+    at getText (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6704:25)
+    at PlaywrightServer.getText (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:7757:34)
+    at handleUnary (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:718:13)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+=============================================================
+{"level":30,"time":"2022-11-08T13:43:34.970Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
+{"level":30,"time":"2022-11-08T13:43:34.970Z","pid":20260,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
+    at findLocator (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6140:3)
+    at getText (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6704:25)
+    at PlaywrightServer.getText (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:7757:34)
+    at handleUnary (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:718:13)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+=============================================================
+{"level":30,"time":"2022-11-08T13:43:34.985Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
+{"level":30,"time":"2022-11-08T13:43:34.986Z","pid":20260,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
+    at findLocator (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6140:3)
+    at getText (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6704:25)
+    at PlaywrightServer.getText (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:7757:34)
+    at handleUnary (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:718:13)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+=============================================================
+{"level":30,"time":"2022-11-08T13:43:35.001Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
+{"level":30,"time":"2022-11-08T13:43:35.002Z","pid":20260,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
+    at findLocator (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6140:3)
+    at getText (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6704:25)
+    at PlaywrightServer.getText (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:7757:34)
+    at handleUnary (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:718:13)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+=============================================================
+{"level":30,"time":"2022-11-08T13:43:35.016Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
+{"level":30,"time":"2022-11-08T13:43:35.016Z","pid":20260,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
+    at findLocator (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6140:3)
+    at getText (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6704:25)
+    at PlaywrightServer.getText (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:7757:34)
+    at handleUnary (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:718:13)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+=============================================================
+{"level":30,"time":"2022-11-08T13:43:35.032Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
+{"level":30,"time":"2022-11-08T13:43:35.032Z","pid":20260,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
+    at findLocator (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6140:3)
+    at getText (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6704:25)
+    at PlaywrightServer.getText (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:7757:34)
+    at handleUnary (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:718:13)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+=============================================================
+{"level":30,"time":"2022-11-08T13:43:35.047Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
+{"level":30,"time":"2022-11-08T13:43:35.047Z","pid":20260,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
+    at findLocator (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6140:3)
+    at getText (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6704:25)
+    at PlaywrightServer.getText (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:7757:34)
+    at handleUnary (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:718:13)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+=============================================================
+{"level":30,"time":"2022-11-08T13:43:35.062Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
+{"level":30,"time":"2022-11-08T13:43:35.063Z","pid":20260,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
+    at findLocator (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6140:3)
+    at getText (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6704:25)
+    at PlaywrightServer.getText (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:7757:34)
+    at handleUnary (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:718:13)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+=============================================================
+{"level":30,"time":"2022-11-08T13:43:35.078Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
+{"level":30,"time":"2022-11-08T13:43:35.078Z","pid":20260,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
+    at findLocator (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6140:3)
+    at getText (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6704:25)
+    at PlaywrightServer.getText (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:7757:34)
+    at handleUnary (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:718:13)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+=============================================================
+{"level":30,"time":"2022-11-08T13:43:35.094Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
+{"level":30,"time":"2022-11-08T13:43:35.094Z","pid":20260,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
+    at findLocator (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6140:3)
+    at getText (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6704:25)
+    at PlaywrightServer.getText (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:7757:34)
+    at handleUnary (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:718:13)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+=============================================================
+{"level":30,"time":"2022-11-08T13:43:35.109Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
+{"level":30,"time":"2022-11-08T13:43:35.110Z","pid":20260,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
+    at findLocator (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6140:3)
+    at getText (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6704:25)
+    at PlaywrightServer.getText (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:7757:34)
+    at handleUnary (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:718:13)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+=============================================================
+{"level":30,"time":"2022-11-08T13:43:35.125Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
+{"level":30,"time":"2022-11-08T13:43:35.125Z","pid":20260,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
+    at findLocator (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6140:3)
+    at getText (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6704:25)
+    at PlaywrightServer.getText (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:7757:34)
+    at handleUnary (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:718:13)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+=============================================================
+{"level":30,"time":"2022-11-08T13:43:35.141Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
+{"level":30,"time":"2022-11-08T13:43:35.141Z","pid":20260,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
+    at findLocator (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6140:3)
+    at getText (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6704:25)
+    at PlaywrightServer.getText (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:7757:34)
+    at handleUnary (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:718:13)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+=============================================================
+{"level":30,"time":"2022-11-08T13:43:35.156Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
+{"level":30,"time":"2022-11-08T13:43:35.156Z","pid":20260,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
+    at findLocator (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6140:3)
+    at getText (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6704:25)
+    at PlaywrightServer.getText (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:7757:34)
+    at handleUnary (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:718:13)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+=============================================================
+{"level":30,"time":"2022-11-08T13:43:35.172Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
+{"level":30,"time":"2022-11-08T13:43:35.172Z","pid":20260,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
+    at findLocator (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6140:3)
+    at getText (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6704:25)
+    at PlaywrightServer.getText (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:7757:34)
+    at handleUnary (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:718:13)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+=============================================================
+{"level":30,"time":"2022-11-08T13:43:35.187Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
+{"level":30,"time":"2022-11-08T13:43:35.188Z","pid":20260,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
+    at findLocator (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6140:3)
+    at getText (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6704:25)
+    at PlaywrightServer.getText (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:7757:34)
+    at handleUnary (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:718:13)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+=============================================================
+{"level":30,"time":"2022-11-08T13:43:35.203Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
+{"level":30,"time":"2022-11-08T13:43:35.203Z","pid":20260,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
+    at findLocator (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6140:3)
+    at getText (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6704:25)
+    at PlaywrightServer.getText (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:7757:34)
+    at handleUnary (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:718:13)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+=============================================================
+{"level":30,"time":"2022-11-08T13:43:35.219Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
+{"level":30,"time":"2022-11-08T13:43:35.219Z","pid":20260,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
+    at findLocator (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6140:3)
+    at getText (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6704:25)
+    at PlaywrightServer.getText (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:7757:34)
+    at handleUnary (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:718:13)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+=============================================================
+{"level":30,"time":"2022-11-08T13:43:35.234Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
+{"level":30,"time":"2022-11-08T13:43:35.234Z","pid":20260,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
+    at findLocator (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6140:3)
+    at getText (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6704:25)
+    at PlaywrightServer.getText (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:7757:34)
+    at handleUnary (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:718:13)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+=============================================================
+{"level":30,"time":"2022-11-08T13:43:35.250Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
+{"level":30,"time":"2022-11-08T13:43:35.250Z","pid":20260,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
+    at findLocator (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6140:3)
+    at getText (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6704:25)
+    at PlaywrightServer.getText (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:7757:34)
+    at handleUnary (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:718:13)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+=============================================================
+{"level":30,"time":"2022-11-08T13:43:35.265Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
+{"level":30,"time":"2022-11-08T13:43:35.265Z","pid":20260,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
+    at findLocator (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6140:3)
+    at getText (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6704:25)
+    at PlaywrightServer.getText (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:7757:34)
+    at handleUnary (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:718:13)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+=============================================================
+{"level":30,"time":"2022-11-08T13:43:35.281Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
+{"level":30,"time":"2022-11-08T13:43:35.281Z","pid":20260,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
+    at findLocator (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6140:3)
+    at getText (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6704:25)
+    at PlaywrightServer.getText (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:7757:34)
+    at handleUnary (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:718:13)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+=============================================================
+{"level":30,"time":"2022-11-08T13:43:35.295Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
+{"level":30,"time":"2022-11-08T13:43:35.295Z","pid":20260,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
+    at findLocator (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6140:3)
+    at getText (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6704:25)
+    at PlaywrightServer.getText (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:7757:34)
+    at handleUnary (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:718:13)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+=============================================================
+{"level":30,"time":"2022-11-08T13:43:35.310Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
+{"level":30,"time":"2022-11-08T13:43:35.310Z","pid":20260,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
+    at findLocator (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6140:3)
+    at getText (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6704:25)
+    at PlaywrightServer.getText (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:7757:34)
+    at handleUnary (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:718:13)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+=============================================================
+{"level":30,"time":"2022-11-08T13:43:35.326Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
+{"level":30,"time":"2022-11-08T13:43:35.326Z","pid":20260,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
+    at findLocator (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6140:3)
+    at getText (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6704:25)
+    at PlaywrightServer.getText (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:7757:34)
+    at handleUnary (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:718:13)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+=============================================================
+{"level":30,"time":"2022-11-08T13:43:35.342Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
+{"level":30,"time":"2022-11-08T13:43:35.342Z","pid":20260,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
+================= Original suppressed error =================
+Error: Could not find active page
+    at exists (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
+    at findLocator (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6140:3)
+    at getText (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6704:25)
+    at PlaywrightServer.getText (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:7757:34)
+    at handleUnary (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:718:13)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+=============================================================
+{"level":30,"time":"2022-11-08T13:43:35.346Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2022-11-08T13:43:35.347Z","pid":20260,"hostname":"SELNK1350000208","msg":"Error of node method  takeScreenshot"}
+================= Original suppressed error =================
+Error: Tried to take screenshot, but no page was open.
+    at exists (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
+    at takeScreenshot (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6307:3)
+    at PlaywrightServer.takeScreenshot (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:7757:34)
+    at handleUnary (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:718:13)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+=============================================================
+{"level":30,"time":"2022-11-08T13:44:05.571Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-11-08T13:44:05.572Z","pid":20260,"hostname":"SELNK1350000208","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-11-08T13:44:05.577Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-11-08T13:44:05.578Z","pid":20260,"hostname":"SELNK1350000208","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-11-08T13:44:05.616Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method closeAllBrowsers"}
+{"level":30,"time":"2022-11-08T13:44:05.692Z","pid":20260,"hostname":"SELNK1350000208","msg":"End of node method closeAllBrowsers"}
