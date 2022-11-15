@@ -1,12 +1,12 @@
-{"level":30,"time":"2022-11-08T13:42:50.933Z","pid":20260,"hostname":"SELNK1350000208","msg":"Listening on 59026"}
-{"level":30,"time":"2022-11-08T13:42:51.371Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getBrowserCatalog"}
-{"level":30,"time":"2022-11-08T13:42:51.371Z","pid":20260,"hostname":"SELNK1350000208","msg":"End of node method getBrowserCatalog"}
-{"level":30,"time":"2022-11-08T13:42:51.375Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getBrowserCatalog"}
-{"level":30,"time":"2022-11-08T13:42:51.375Z","pid":20260,"hostname":"SELNK1350000208","msg":"End of node method getBrowserCatalog"}
-{"level":30,"time":"2022-11-08T13:43:31.540Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method newBrowser"}
-{"level":30,"time":"2022-11-08T13:43:34.319Z","pid":20260,"hostname":"SELNK1350000208","msg":"End of node method newBrowser"}
-{"level":30,"time":"2022-11-08T13:43:34.325Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
-{"level":30,"time":"2022-11-08T13:43:34.326Z","pid":20260,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
+{"level":30,"time":"2022-11-15T12:28:05.870Z","pid":19640,"hostname":"SELNK1350000208","msg":"Listening on 54230"}
+{"level":30,"time":"2022-11-15T12:28:06.233Z","pid":19640,"hostname":"SELNK1350000208","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-11-15T12:28:06.233Z","pid":19640,"hostname":"SELNK1350000208","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-11-15T12:28:06.237Z","pid":19640,"hostname":"SELNK1350000208","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-11-15T12:28:06.237Z","pid":19640,"hostname":"SELNK1350000208","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-11-15T12:28:46.418Z","pid":19640,"hostname":"SELNK1350000208","msg":"Start of node method newBrowser"}
+{"level":30,"time":"2022-11-15T12:28:50.268Z","pid":19640,"hostname":"SELNK1350000208","msg":"End of node method newBrowser"}
+{"level":30,"time":"2022-11-15T12:28:50.278Z","pid":19640,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
+{"level":30,"time":"2022-11-15T12:28:50.279Z","pid":19640,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
 ================= Original suppressed error =================
 Error: Could not find active page
     at exists (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
@@ -16,8 +16,8 @@ Error: Could not find active page
     at handleUnary (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:718:13)
     at processTicksAndRejections (node:internal/process/task_queues:96:5)
 =============================================================
-{"level":30,"time":"2022-11-08T13:43:34.357Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
-{"level":30,"time":"2022-11-08T13:43:34.357Z","pid":20260,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
+{"level":30,"time":"2022-11-15T12:28:50.305Z","pid":19640,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
+{"level":30,"time":"2022-11-15T12:28:50.305Z","pid":19640,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
 ================= Original suppressed error =================
 Error: Could not find active page
     at exists (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
@@ -27,8 +27,8 @@ Error: Could not find active page
     at handleUnary (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:718:13)
     at processTicksAndRejections (node:internal/process/task_queues:96:5)
 =============================================================
-{"level":30,"time":"2022-11-08T13:43:34.371Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
-{"level":30,"time":"2022-11-08T13:43:34.371Z","pid":20260,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
+{"level":30,"time":"2022-11-15T12:28:50.322Z","pid":19640,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
+{"level":30,"time":"2022-11-15T12:28:50.322Z","pid":19640,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
 ================= Original suppressed error =================
 Error: Could not find active page
     at exists (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
@@ -38,8 +38,8 @@ Error: Could not find active page
     at handleUnary (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:718:13)
     at processTicksAndRejections (node:internal/process/task_queues:96:5)
 =============================================================
-{"level":30,"time":"2022-11-08T13:43:34.386Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
-{"level":30,"time":"2022-11-08T13:43:34.386Z","pid":20260,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
+{"level":30,"time":"2022-11-15T12:28:50.336Z","pid":19640,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
+{"level":30,"time":"2022-11-15T12:28:50.337Z","pid":19640,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
 ================= Original suppressed error =================
 Error: Could not find active page
     at exists (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
@@ -49,8 +49,8 @@ Error: Could not find active page
     at handleUnary (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:718:13)
     at processTicksAndRejections (node:internal/process/task_queues:96:5)
 =============================================================
-{"level":30,"time":"2022-11-08T13:43:34.402Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
-{"level":30,"time":"2022-11-08T13:43:34.402Z","pid":20260,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
+{"level":30,"time":"2022-11-15T12:28:50.353Z","pid":19640,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
+{"level":30,"time":"2022-11-15T12:28:50.353Z","pid":19640,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
 ================= Original suppressed error =================
 Error: Could not find active page
     at exists (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
@@ -60,8 +60,8 @@ Error: Could not find active page
     at handleUnary (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:718:13)
     at processTicksAndRejections (node:internal/process/task_queues:96:5)
 =============================================================
-{"level":30,"time":"2022-11-08T13:43:34.416Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
-{"level":30,"time":"2022-11-08T13:43:34.416Z","pid":20260,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
+{"level":30,"time":"2022-11-15T12:28:50.368Z","pid":19640,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
+{"level":30,"time":"2022-11-15T12:28:50.368Z","pid":19640,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
 ================= Original suppressed error =================
 Error: Could not find active page
     at exists (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
@@ -71,8 +71,8 @@ Error: Could not find active page
     at handleUnary (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:718:13)
     at processTicksAndRejections (node:internal/process/task_queues:96:5)
 =============================================================
-{"level":30,"time":"2022-11-08T13:43:34.432Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
-{"level":30,"time":"2022-11-08T13:43:34.432Z","pid":20260,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
+{"level":30,"time":"2022-11-15T12:28:50.383Z","pid":19640,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
+{"level":30,"time":"2022-11-15T12:28:50.383Z","pid":19640,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
 ================= Original suppressed error =================
 Error: Could not find active page
     at exists (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
@@ -82,8 +82,8 @@ Error: Could not find active page
     at handleUnary (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:718:13)
     at processTicksAndRejections (node:internal/process/task_queues:96:5)
 =============================================================
-{"level":30,"time":"2022-11-08T13:43:34.447Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
-{"level":30,"time":"2022-11-08T13:43:34.447Z","pid":20260,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
+{"level":30,"time":"2022-11-15T12:28:50.398Z","pid":19640,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
+{"level":30,"time":"2022-11-15T12:28:50.398Z","pid":19640,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
 ================= Original suppressed error =================
 Error: Could not find active page
     at exists (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
@@ -93,8 +93,8 @@ Error: Could not find active page
     at handleUnary (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:718:13)
     at processTicksAndRejections (node:internal/process/task_queues:96:5)
 =============================================================
-{"level":30,"time":"2022-11-08T13:43:34.462Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
-{"level":30,"time":"2022-11-08T13:43:34.463Z","pid":20260,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
+{"level":30,"time":"2022-11-15T12:28:50.413Z","pid":19640,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
+{"level":30,"time":"2022-11-15T12:28:50.414Z","pid":19640,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
 ================= Original suppressed error =================
 Error: Could not find active page
     at exists (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
@@ -104,8 +104,8 @@ Error: Could not find active page
     at handleUnary (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:718:13)
     at processTicksAndRejections (node:internal/process/task_queues:96:5)
 =============================================================
-{"level":30,"time":"2022-11-08T13:43:34.478Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
-{"level":30,"time":"2022-11-08T13:43:34.478Z","pid":20260,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
+{"level":30,"time":"2022-11-15T12:28:50.429Z","pid":19640,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
+{"level":30,"time":"2022-11-15T12:28:50.429Z","pid":19640,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
 ================= Original suppressed error =================
 Error: Could not find active page
     at exists (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
@@ -115,8 +115,8 @@ Error: Could not find active page
     at handleUnary (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:718:13)
     at processTicksAndRejections (node:internal/process/task_queues:96:5)
 =============================================================
-{"level":30,"time":"2022-11-08T13:43:34.493Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
-{"level":30,"time":"2022-11-08T13:43:34.494Z","pid":20260,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
+{"level":30,"time":"2022-11-15T12:28:50.444Z","pid":19640,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
+{"level":30,"time":"2022-11-15T12:28:50.445Z","pid":19640,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
 ================= Original suppressed error =================
 Error: Could not find active page
     at exists (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
@@ -126,8 +126,8 @@ Error: Could not find active page
     at handleUnary (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:718:13)
     at processTicksAndRejections (node:internal/process/task_queues:96:5)
 =============================================================
-{"level":30,"time":"2022-11-08T13:43:34.509Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
-{"level":30,"time":"2022-11-08T13:43:34.509Z","pid":20260,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
+{"level":30,"time":"2022-11-15T12:28:50.461Z","pid":19640,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
+{"level":30,"time":"2022-11-15T12:28:50.461Z","pid":19640,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
 ================= Original suppressed error =================
 Error: Could not find active page
     at exists (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
@@ -137,8 +137,8 @@ Error: Could not find active page
     at handleUnary (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:718:13)
     at processTicksAndRejections (node:internal/process/task_queues:96:5)
 =============================================================
-{"level":30,"time":"2022-11-08T13:43:34.523Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
-{"level":30,"time":"2022-11-08T13:43:34.524Z","pid":20260,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
+{"level":30,"time":"2022-11-15T12:28:50.475Z","pid":19640,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
+{"level":30,"time":"2022-11-15T12:28:50.475Z","pid":19640,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
 ================= Original suppressed error =================
 Error: Could not find active page
     at exists (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
@@ -148,8 +148,8 @@ Error: Could not find active page
     at handleUnary (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:718:13)
     at processTicksAndRejections (node:internal/process/task_queues:96:5)
 =============================================================
-{"level":30,"time":"2022-11-08T13:43:34.539Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
-{"level":30,"time":"2022-11-08T13:43:34.539Z","pid":20260,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
+{"level":30,"time":"2022-11-15T12:28:50.492Z","pid":19640,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
+{"level":30,"time":"2022-11-15T12:28:50.492Z","pid":19640,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
 ================= Original suppressed error =================
 Error: Could not find active page
     at exists (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
@@ -159,8 +159,8 @@ Error: Could not find active page
     at handleUnary (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:718:13)
     at processTicksAndRejections (node:internal/process/task_queues:96:5)
 =============================================================
-{"level":30,"time":"2022-11-08T13:43:34.554Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
-{"level":30,"time":"2022-11-08T13:43:34.554Z","pid":20260,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
+{"level":30,"time":"2022-11-15T12:28:50.507Z","pid":19640,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
+{"level":30,"time":"2022-11-15T12:28:50.507Z","pid":19640,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
 ================= Original suppressed error =================
 Error: Could not find active page
     at exists (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
@@ -170,8 +170,8 @@ Error: Could not find active page
     at handleUnary (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:718:13)
     at processTicksAndRejections (node:internal/process/task_queues:96:5)
 =============================================================
-{"level":30,"time":"2022-11-08T13:43:34.570Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
-{"level":30,"time":"2022-11-08T13:43:34.570Z","pid":20260,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
+{"level":30,"time":"2022-11-15T12:28:50.523Z","pid":19640,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
+{"level":30,"time":"2022-11-15T12:28:50.523Z","pid":19640,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
 ================= Original suppressed error =================
 Error: Could not find active page
     at exists (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
@@ -181,8 +181,8 @@ Error: Could not find active page
     at handleUnary (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:718:13)
     at processTicksAndRejections (node:internal/process/task_queues:96:5)
 =============================================================
-{"level":30,"time":"2022-11-08T13:43:34.585Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
-{"level":30,"time":"2022-11-08T13:43:34.586Z","pid":20260,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
+{"level":30,"time":"2022-11-15T12:28:50.537Z","pid":19640,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
+{"level":30,"time":"2022-11-15T12:28:50.538Z","pid":19640,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
 ================= Original suppressed error =================
 Error: Could not find active page
     at exists (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
@@ -192,8 +192,8 @@ Error: Could not find active page
     at handleUnary (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:718:13)
     at processTicksAndRejections (node:internal/process/task_queues:96:5)
 =============================================================
-{"level":30,"time":"2022-11-08T13:43:34.600Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
-{"level":30,"time":"2022-11-08T13:43:34.600Z","pid":20260,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
+{"level":30,"time":"2022-11-15T12:28:50.553Z","pid":19640,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
+{"level":30,"time":"2022-11-15T12:28:50.553Z","pid":19640,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
 ================= Original suppressed error =================
 Error: Could not find active page
     at exists (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
@@ -203,8 +203,8 @@ Error: Could not find active page
     at handleUnary (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:718:13)
     at processTicksAndRejections (node:internal/process/task_queues:96:5)
 =============================================================
-{"level":30,"time":"2022-11-08T13:43:34.617Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
-{"level":30,"time":"2022-11-08T13:43:34.617Z","pid":20260,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
+{"level":30,"time":"2022-11-15T12:28:50.569Z","pid":19640,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
+{"level":30,"time":"2022-11-15T12:28:50.569Z","pid":19640,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
 ================= Original suppressed error =================
 Error: Could not find active page
     at exists (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
@@ -214,8 +214,8 @@ Error: Could not find active page
     at handleUnary (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:718:13)
     at processTicksAndRejections (node:internal/process/task_queues:96:5)
 =============================================================
-{"level":30,"time":"2022-11-08T13:43:34.632Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
-{"level":30,"time":"2022-11-08T13:43:34.632Z","pid":20260,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
+{"level":30,"time":"2022-11-15T12:28:50.583Z","pid":19640,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
+{"level":30,"time":"2022-11-15T12:28:50.584Z","pid":19640,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
 ================= Original suppressed error =================
 Error: Could not find active page
     at exists (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
@@ -225,8 +225,8 @@ Error: Could not find active page
     at handleUnary (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:718:13)
     at processTicksAndRejections (node:internal/process/task_queues:96:5)
 =============================================================
-{"level":30,"time":"2022-11-08T13:43:34.647Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
-{"level":30,"time":"2022-11-08T13:43:34.648Z","pid":20260,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
+{"level":30,"time":"2022-11-15T12:28:50.599Z","pid":19640,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
+{"level":30,"time":"2022-11-15T12:28:50.599Z","pid":19640,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
 ================= Original suppressed error =================
 Error: Could not find active page
     at exists (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
@@ -236,8 +236,8 @@ Error: Could not find active page
     at handleUnary (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:718:13)
     at processTicksAndRejections (node:internal/process/task_queues:96:5)
 =============================================================
-{"level":30,"time":"2022-11-08T13:43:34.662Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
-{"level":30,"time":"2022-11-08T13:43:34.663Z","pid":20260,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
+{"level":30,"time":"2022-11-15T12:28:50.614Z","pid":19640,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
+{"level":30,"time":"2022-11-15T12:28:50.614Z","pid":19640,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
 ================= Original suppressed error =================
 Error: Could not find active page
     at exists (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
@@ -247,8 +247,8 @@ Error: Could not find active page
     at handleUnary (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:718:13)
     at processTicksAndRejections (node:internal/process/task_queues:96:5)
 =============================================================
-{"level":30,"time":"2022-11-08T13:43:34.678Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
-{"level":30,"time":"2022-11-08T13:43:34.678Z","pid":20260,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
+{"level":30,"time":"2022-11-15T12:28:50.630Z","pid":19640,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
+{"level":30,"time":"2022-11-15T12:28:50.630Z","pid":19640,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
 ================= Original suppressed error =================
 Error: Could not find active page
     at exists (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
@@ -258,8 +258,8 @@ Error: Could not find active page
     at handleUnary (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:718:13)
     at processTicksAndRejections (node:internal/process/task_queues:96:5)
 =============================================================
-{"level":30,"time":"2022-11-08T13:43:34.694Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
-{"level":30,"time":"2022-11-08T13:43:34.694Z","pid":20260,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
+{"level":30,"time":"2022-11-15T12:28:50.645Z","pid":19640,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
+{"level":30,"time":"2022-11-15T12:28:50.646Z","pid":19640,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
 ================= Original suppressed error =================
 Error: Could not find active page
     at exists (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
@@ -269,8 +269,8 @@ Error: Could not find active page
     at handleUnary (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:718:13)
     at processTicksAndRejections (node:internal/process/task_queues:96:5)
 =============================================================
-{"level":30,"time":"2022-11-08T13:43:34.709Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
-{"level":30,"time":"2022-11-08T13:43:34.710Z","pid":20260,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
+{"level":30,"time":"2022-11-15T12:28:50.660Z","pid":19640,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
+{"level":30,"time":"2022-11-15T12:28:50.661Z","pid":19640,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
 ================= Original suppressed error =================
 Error: Could not find active page
     at exists (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
@@ -280,8 +280,8 @@ Error: Could not find active page
     at handleUnary (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:718:13)
     at processTicksAndRejections (node:internal/process/task_queues:96:5)
 =============================================================
-{"level":30,"time":"2022-11-08T13:43:34.724Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
-{"level":30,"time":"2022-11-08T13:43:34.724Z","pid":20260,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
+{"level":30,"time":"2022-11-15T12:28:50.677Z","pid":19640,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
+{"level":30,"time":"2022-11-15T12:28:50.677Z","pid":19640,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
 ================= Original suppressed error =================
 Error: Could not find active page
     at exists (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
@@ -291,8 +291,8 @@ Error: Could not find active page
     at handleUnary (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:718:13)
     at processTicksAndRejections (node:internal/process/task_queues:96:5)
 =============================================================
-{"level":30,"time":"2022-11-08T13:43:34.740Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
-{"level":30,"time":"2022-11-08T13:43:34.740Z","pid":20260,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
+{"level":30,"time":"2022-11-15T12:28:50.692Z","pid":19640,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
+{"level":30,"time":"2022-11-15T12:28:50.692Z","pid":19640,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
 ================= Original suppressed error =================
 Error: Could not find active page
     at exists (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
@@ -302,8 +302,8 @@ Error: Could not find active page
     at handleUnary (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:718:13)
     at processTicksAndRejections (node:internal/process/task_queues:96:5)
 =============================================================
-{"level":30,"time":"2022-11-08T13:43:34.756Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
-{"level":30,"time":"2022-11-08T13:43:34.756Z","pid":20260,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
+{"level":30,"time":"2022-11-15T12:28:50.708Z","pid":19640,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
+{"level":30,"time":"2022-11-15T12:28:50.708Z","pid":19640,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
 ================= Original suppressed error =================
 Error: Could not find active page
     at exists (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
@@ -313,8 +313,8 @@ Error: Could not find active page
     at handleUnary (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:718:13)
     at processTicksAndRejections (node:internal/process/task_queues:96:5)
 =============================================================
-{"level":30,"time":"2022-11-08T13:43:34.771Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
-{"level":30,"time":"2022-11-08T13:43:34.771Z","pid":20260,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
+{"level":30,"time":"2022-11-15T12:28:50.723Z","pid":19640,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
+{"level":30,"time":"2022-11-15T12:28:50.724Z","pid":19640,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
 ================= Original suppressed error =================
 Error: Could not find active page
     at exists (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
@@ -324,8 +324,8 @@ Error: Could not find active page
     at handleUnary (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:718:13)
     at processTicksAndRejections (node:internal/process/task_queues:96:5)
 =============================================================
-{"level":30,"time":"2022-11-08T13:43:34.786Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
-{"level":30,"time":"2022-11-08T13:43:34.786Z","pid":20260,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
+{"level":30,"time":"2022-11-15T12:28:50.739Z","pid":19640,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
+{"level":30,"time":"2022-11-15T12:28:50.739Z","pid":19640,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
 ================= Original suppressed error =================
 Error: Could not find active page
     at exists (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
@@ -335,8 +335,8 @@ Error: Could not find active page
     at handleUnary (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:718:13)
     at processTicksAndRejections (node:internal/process/task_queues:96:5)
 =============================================================
-{"level":30,"time":"2022-11-08T13:43:34.802Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
-{"level":30,"time":"2022-11-08T13:43:34.802Z","pid":20260,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
+{"level":30,"time":"2022-11-15T12:28:50.754Z","pid":19640,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
+{"level":30,"time":"2022-11-15T12:28:50.754Z","pid":19640,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
 ================= Original suppressed error =================
 Error: Could not find active page
     at exists (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
@@ -346,8 +346,8 @@ Error: Could not find active page
     at handleUnary (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:718:13)
     at processTicksAndRejections (node:internal/process/task_queues:96:5)
 =============================================================
-{"level":30,"time":"2022-11-08T13:43:34.816Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
-{"level":30,"time":"2022-11-08T13:43:34.816Z","pid":20260,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
+{"level":30,"time":"2022-11-15T12:28:50.769Z","pid":19640,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
+{"level":30,"time":"2022-11-15T12:28:50.769Z","pid":19640,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
 ================= Original suppressed error =================
 Error: Could not find active page
     at exists (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
@@ -357,8 +357,8 @@ Error: Could not find active page
     at handleUnary (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:718:13)
     at processTicksAndRejections (node:internal/process/task_queues:96:5)
 =============================================================
-{"level":30,"time":"2022-11-08T13:43:34.833Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
-{"level":30,"time":"2022-11-08T13:43:34.833Z","pid":20260,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
+{"level":30,"time":"2022-11-15T12:28:50.785Z","pid":19640,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
+{"level":30,"time":"2022-11-15T12:28:50.785Z","pid":19640,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
 ================= Original suppressed error =================
 Error: Could not find active page
     at exists (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
@@ -368,8 +368,8 @@ Error: Could not find active page
     at handleUnary (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:718:13)
     at processTicksAndRejections (node:internal/process/task_queues:96:5)
 =============================================================
-{"level":30,"time":"2022-11-08T13:43:34.848Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
-{"level":30,"time":"2022-11-08T13:43:34.848Z","pid":20260,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
+{"level":30,"time":"2022-11-15T12:28:50.801Z","pid":19640,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
+{"level":30,"time":"2022-11-15T12:28:50.802Z","pid":19640,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
 ================= Original suppressed error =================
 Error: Could not find active page
     at exists (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
@@ -379,8 +379,8 @@ Error: Could not find active page
     at handleUnary (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:718:13)
     at processTicksAndRejections (node:internal/process/task_queues:96:5)
 =============================================================
-{"level":30,"time":"2022-11-08T13:43:34.863Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
-{"level":30,"time":"2022-11-08T13:43:34.863Z","pid":20260,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
+{"level":30,"time":"2022-11-15T12:28:50.817Z","pid":19640,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
+{"level":30,"time":"2022-11-15T12:28:50.818Z","pid":19640,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
 ================= Original suppressed error =================
 Error: Could not find active page
     at exists (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
@@ -390,8 +390,8 @@ Error: Could not find active page
     at handleUnary (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:718:13)
     at processTicksAndRejections (node:internal/process/task_queues:96:5)
 =============================================================
-{"level":30,"time":"2022-11-08T13:43:34.878Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
-{"level":30,"time":"2022-11-08T13:43:34.878Z","pid":20260,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
+{"level":30,"time":"2022-11-15T12:28:50.833Z","pid":19640,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
+{"level":30,"time":"2022-11-15T12:28:50.833Z","pid":19640,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
 ================= Original suppressed error =================
 Error: Could not find active page
     at exists (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
@@ -401,8 +401,8 @@ Error: Could not find active page
     at handleUnary (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:718:13)
     at processTicksAndRejections (node:internal/process/task_queues:96:5)
 =============================================================
-{"level":30,"time":"2022-11-08T13:43:34.894Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
-{"level":30,"time":"2022-11-08T13:43:34.894Z","pid":20260,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
+{"level":30,"time":"2022-11-15T12:28:50.848Z","pid":19640,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
+{"level":30,"time":"2022-11-15T12:28:50.848Z","pid":19640,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
 ================= Original suppressed error =================
 Error: Could not find active page
     at exists (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
@@ -412,8 +412,8 @@ Error: Could not find active page
     at handleUnary (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:718:13)
     at processTicksAndRejections (node:internal/process/task_queues:96:5)
 =============================================================
-{"level":30,"time":"2022-11-08T13:43:34.908Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
-{"level":30,"time":"2022-11-08T13:43:34.909Z","pid":20260,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
+{"level":30,"time":"2022-11-15T12:28:50.863Z","pid":19640,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
+{"level":30,"time":"2022-11-15T12:28:50.864Z","pid":19640,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
 ================= Original suppressed error =================
 Error: Could not find active page
     at exists (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
@@ -423,8 +423,8 @@ Error: Could not find active page
     at handleUnary (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:718:13)
     at processTicksAndRejections (node:internal/process/task_queues:96:5)
 =============================================================
-{"level":30,"time":"2022-11-08T13:43:34.924Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
-{"level":30,"time":"2022-11-08T13:43:34.924Z","pid":20260,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
+{"level":30,"time":"2022-11-15T12:28:50.878Z","pid":19640,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
+{"level":30,"time":"2022-11-15T12:28:50.879Z","pid":19640,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
 ================= Original suppressed error =================
 Error: Could not find active page
     at exists (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
@@ -434,8 +434,8 @@ Error: Could not find active page
     at handleUnary (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:718:13)
     at processTicksAndRejections (node:internal/process/task_queues:96:5)
 =============================================================
-{"level":30,"time":"2022-11-08T13:43:34.939Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
-{"level":30,"time":"2022-11-08T13:43:34.939Z","pid":20260,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
+{"level":30,"time":"2022-11-15T12:28:50.895Z","pid":19640,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
+{"level":30,"time":"2022-11-15T12:28:50.895Z","pid":19640,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
 ================= Original suppressed error =================
 Error: Could not find active page
     at exists (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
@@ -445,8 +445,8 @@ Error: Could not find active page
     at handleUnary (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:718:13)
     at processTicksAndRejections (node:internal/process/task_queues:96:5)
 =============================================================
-{"level":30,"time":"2022-11-08T13:43:34.955Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
-{"level":30,"time":"2022-11-08T13:43:34.955Z","pid":20260,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
+{"level":30,"time":"2022-11-15T12:28:50.910Z","pid":19640,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
+{"level":30,"time":"2022-11-15T12:28:50.910Z","pid":19640,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
 ================= Original suppressed error =================
 Error: Could not find active page
     at exists (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
@@ -456,8 +456,8 @@ Error: Could not find active page
     at handleUnary (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:718:13)
     at processTicksAndRejections (node:internal/process/task_queues:96:5)
 =============================================================
-{"level":30,"time":"2022-11-08T13:43:34.970Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
-{"level":30,"time":"2022-11-08T13:43:34.970Z","pid":20260,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
+{"level":30,"time":"2022-11-15T12:28:50.926Z","pid":19640,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
+{"level":30,"time":"2022-11-15T12:28:50.926Z","pid":19640,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
 ================= Original suppressed error =================
 Error: Could not find active page
     at exists (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
@@ -467,8 +467,8 @@ Error: Could not find active page
     at handleUnary (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:718:13)
     at processTicksAndRejections (node:internal/process/task_queues:96:5)
 =============================================================
-{"level":30,"time":"2022-11-08T13:43:34.985Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
-{"level":30,"time":"2022-11-08T13:43:34.986Z","pid":20260,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
+{"level":30,"time":"2022-11-15T12:28:50.941Z","pid":19640,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
+{"level":30,"time":"2022-11-15T12:28:50.941Z","pid":19640,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
 ================= Original suppressed error =================
 Error: Could not find active page
     at exists (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
@@ -478,8 +478,8 @@ Error: Could not find active page
     at handleUnary (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:718:13)
     at processTicksAndRejections (node:internal/process/task_queues:96:5)
 =============================================================
-{"level":30,"time":"2022-11-08T13:43:35.001Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
-{"level":30,"time":"2022-11-08T13:43:35.002Z","pid":20260,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
+{"level":30,"time":"2022-11-15T12:28:50.956Z","pid":19640,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
+{"level":30,"time":"2022-11-15T12:28:50.957Z","pid":19640,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
 ================= Original suppressed error =================
 Error: Could not find active page
     at exists (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
@@ -489,8 +489,8 @@ Error: Could not find active page
     at handleUnary (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:718:13)
     at processTicksAndRejections (node:internal/process/task_queues:96:5)
 =============================================================
-{"level":30,"time":"2022-11-08T13:43:35.016Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
-{"level":30,"time":"2022-11-08T13:43:35.016Z","pid":20260,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
+{"level":30,"time":"2022-11-15T12:28:50.972Z","pid":19640,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
+{"level":30,"time":"2022-11-15T12:28:50.972Z","pid":19640,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
 ================= Original suppressed error =================
 Error: Could not find active page
     at exists (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
@@ -500,8 +500,8 @@ Error: Could not find active page
     at handleUnary (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:718:13)
     at processTicksAndRejections (node:internal/process/task_queues:96:5)
 =============================================================
-{"level":30,"time":"2022-11-08T13:43:35.032Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
-{"level":30,"time":"2022-11-08T13:43:35.032Z","pid":20260,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
+{"level":30,"time":"2022-11-15T12:28:50.987Z","pid":19640,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
+{"level":30,"time":"2022-11-15T12:28:50.987Z","pid":19640,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
 ================= Original suppressed error =================
 Error: Could not find active page
     at exists (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
@@ -511,8 +511,8 @@ Error: Could not find active page
     at handleUnary (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:718:13)
     at processTicksAndRejections (node:internal/process/task_queues:96:5)
 =============================================================
-{"level":30,"time":"2022-11-08T13:43:35.047Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
-{"level":30,"time":"2022-11-08T13:43:35.047Z","pid":20260,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
+{"level":30,"time":"2022-11-15T12:28:51.003Z","pid":19640,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
+{"level":30,"time":"2022-11-15T12:28:51.003Z","pid":19640,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
 ================= Original suppressed error =================
 Error: Could not find active page
     at exists (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
@@ -522,8 +522,8 @@ Error: Could not find active page
     at handleUnary (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:718:13)
     at processTicksAndRejections (node:internal/process/task_queues:96:5)
 =============================================================
-{"level":30,"time":"2022-11-08T13:43:35.062Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
-{"level":30,"time":"2022-11-08T13:43:35.063Z","pid":20260,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
+{"level":30,"time":"2022-11-15T12:28:51.018Z","pid":19640,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
+{"level":30,"time":"2022-11-15T12:28:51.018Z","pid":19640,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
 ================= Original suppressed error =================
 Error: Could not find active page
     at exists (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
@@ -533,8 +533,8 @@ Error: Could not find active page
     at handleUnary (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:718:13)
     at processTicksAndRejections (node:internal/process/task_queues:96:5)
 =============================================================
-{"level":30,"time":"2022-11-08T13:43:35.078Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
-{"level":30,"time":"2022-11-08T13:43:35.078Z","pid":20260,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
+{"level":30,"time":"2022-11-15T12:28:51.034Z","pid":19640,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
+{"level":30,"time":"2022-11-15T12:28:51.034Z","pid":19640,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
 ================= Original suppressed error =================
 Error: Could not find active page
     at exists (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
@@ -544,8 +544,8 @@ Error: Could not find active page
     at handleUnary (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:718:13)
     at processTicksAndRejections (node:internal/process/task_queues:96:5)
 =============================================================
-{"level":30,"time":"2022-11-08T13:43:35.094Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
-{"level":30,"time":"2022-11-08T13:43:35.094Z","pid":20260,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
+{"level":30,"time":"2022-11-15T12:28:51.049Z","pid":19640,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
+{"level":30,"time":"2022-11-15T12:28:51.050Z","pid":19640,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
 ================= Original suppressed error =================
 Error: Could not find active page
     at exists (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
@@ -555,8 +555,8 @@ Error: Could not find active page
     at handleUnary (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:718:13)
     at processTicksAndRejections (node:internal/process/task_queues:96:5)
 =============================================================
-{"level":30,"time":"2022-11-08T13:43:35.109Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
-{"level":30,"time":"2022-11-08T13:43:35.110Z","pid":20260,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
+{"level":30,"time":"2022-11-15T12:28:51.066Z","pid":19640,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
+{"level":30,"time":"2022-11-15T12:28:51.066Z","pid":19640,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
 ================= Original suppressed error =================
 Error: Could not find active page
     at exists (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
@@ -566,8 +566,8 @@ Error: Could not find active page
     at handleUnary (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:718:13)
     at processTicksAndRejections (node:internal/process/task_queues:96:5)
 =============================================================
-{"level":30,"time":"2022-11-08T13:43:35.125Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
-{"level":30,"time":"2022-11-08T13:43:35.125Z","pid":20260,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
+{"level":30,"time":"2022-11-15T12:28:51.081Z","pid":19640,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
+{"level":30,"time":"2022-11-15T12:28:51.081Z","pid":19640,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
 ================= Original suppressed error =================
 Error: Could not find active page
     at exists (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
@@ -577,8 +577,8 @@ Error: Could not find active page
     at handleUnary (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:718:13)
     at processTicksAndRejections (node:internal/process/task_queues:96:5)
 =============================================================
-{"level":30,"time":"2022-11-08T13:43:35.141Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
-{"level":30,"time":"2022-11-08T13:43:35.141Z","pid":20260,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
+{"level":30,"time":"2022-11-15T12:28:51.097Z","pid":19640,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
+{"level":30,"time":"2022-11-15T12:28:51.097Z","pid":19640,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
 ================= Original suppressed error =================
 Error: Could not find active page
     at exists (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
@@ -588,8 +588,8 @@ Error: Could not find active page
     at handleUnary (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:718:13)
     at processTicksAndRejections (node:internal/process/task_queues:96:5)
 =============================================================
-{"level":30,"time":"2022-11-08T13:43:35.156Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
-{"level":30,"time":"2022-11-08T13:43:35.156Z","pid":20260,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
+{"level":30,"time":"2022-11-15T12:28:51.112Z","pid":19640,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
+{"level":30,"time":"2022-11-15T12:28:51.113Z","pid":19640,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
 ================= Original suppressed error =================
 Error: Could not find active page
     at exists (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
@@ -599,8 +599,8 @@ Error: Could not find active page
     at handleUnary (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:718:13)
     at processTicksAndRejections (node:internal/process/task_queues:96:5)
 =============================================================
-{"level":30,"time":"2022-11-08T13:43:35.172Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
-{"level":30,"time":"2022-11-08T13:43:35.172Z","pid":20260,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
+{"level":30,"time":"2022-11-15T12:28:51.128Z","pid":19640,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
+{"level":30,"time":"2022-11-15T12:28:51.129Z","pid":19640,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
 ================= Original suppressed error =================
 Error: Could not find active page
     at exists (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
@@ -610,8 +610,8 @@ Error: Could not find active page
     at handleUnary (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:718:13)
     at processTicksAndRejections (node:internal/process/task_queues:96:5)
 =============================================================
-{"level":30,"time":"2022-11-08T13:43:35.187Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
-{"level":30,"time":"2022-11-08T13:43:35.188Z","pid":20260,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
+{"level":30,"time":"2022-11-15T12:28:51.144Z","pid":19640,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
+{"level":30,"time":"2022-11-15T12:28:51.145Z","pid":19640,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
 ================= Original suppressed error =================
 Error: Could not find active page
     at exists (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
@@ -621,8 +621,8 @@ Error: Could not find active page
     at handleUnary (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:718:13)
     at processTicksAndRejections (node:internal/process/task_queues:96:5)
 =============================================================
-{"level":30,"time":"2022-11-08T13:43:35.203Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
-{"level":30,"time":"2022-11-08T13:43:35.203Z","pid":20260,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
+{"level":30,"time":"2022-11-15T12:28:51.159Z","pid":19640,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
+{"level":30,"time":"2022-11-15T12:28:51.160Z","pid":19640,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
 ================= Original suppressed error =================
 Error: Could not find active page
     at exists (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
@@ -632,8 +632,8 @@ Error: Could not find active page
     at handleUnary (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:718:13)
     at processTicksAndRejections (node:internal/process/task_queues:96:5)
 =============================================================
-{"level":30,"time":"2022-11-08T13:43:35.219Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
-{"level":30,"time":"2022-11-08T13:43:35.219Z","pid":20260,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
+{"level":30,"time":"2022-11-15T12:28:51.175Z","pid":19640,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
+{"level":30,"time":"2022-11-15T12:28:51.175Z","pid":19640,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
 ================= Original suppressed error =================
 Error: Could not find active page
     at exists (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
@@ -643,8 +643,8 @@ Error: Could not find active page
     at handleUnary (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:718:13)
     at processTicksAndRejections (node:internal/process/task_queues:96:5)
 =============================================================
-{"level":30,"time":"2022-11-08T13:43:35.234Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
-{"level":30,"time":"2022-11-08T13:43:35.234Z","pid":20260,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
+{"level":30,"time":"2022-11-15T12:28:51.190Z","pid":19640,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
+{"level":30,"time":"2022-11-15T12:28:51.191Z","pid":19640,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
 ================= Original suppressed error =================
 Error: Could not find active page
     at exists (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
@@ -654,8 +654,8 @@ Error: Could not find active page
     at handleUnary (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:718:13)
     at processTicksAndRejections (node:internal/process/task_queues:96:5)
 =============================================================
-{"level":30,"time":"2022-11-08T13:43:35.250Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
-{"level":30,"time":"2022-11-08T13:43:35.250Z","pid":20260,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
+{"level":30,"time":"2022-11-15T12:28:51.205Z","pid":19640,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
+{"level":30,"time":"2022-11-15T12:28:51.205Z","pid":19640,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
 ================= Original suppressed error =================
 Error: Could not find active page
     at exists (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
@@ -665,8 +665,8 @@ Error: Could not find active page
     at handleUnary (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:718:13)
     at processTicksAndRejections (node:internal/process/task_queues:96:5)
 =============================================================
-{"level":30,"time":"2022-11-08T13:43:35.265Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
-{"level":30,"time":"2022-11-08T13:43:35.265Z","pid":20260,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
+{"level":30,"time":"2022-11-15T12:28:51.221Z","pid":19640,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
+{"level":30,"time":"2022-11-15T12:28:51.221Z","pid":19640,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
 ================= Original suppressed error =================
 Error: Could not find active page
     at exists (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
@@ -676,8 +676,8 @@ Error: Could not find active page
     at handleUnary (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:718:13)
     at processTicksAndRejections (node:internal/process/task_queues:96:5)
 =============================================================
-{"level":30,"time":"2022-11-08T13:43:35.281Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
-{"level":30,"time":"2022-11-08T13:43:35.281Z","pid":20260,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
+{"level":30,"time":"2022-11-15T12:28:51.236Z","pid":19640,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
+{"level":30,"time":"2022-11-15T12:28:51.236Z","pid":19640,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
 ================= Original suppressed error =================
 Error: Could not find active page
     at exists (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
@@ -687,8 +687,8 @@ Error: Could not find active page
     at handleUnary (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:718:13)
     at processTicksAndRejections (node:internal/process/task_queues:96:5)
 =============================================================
-{"level":30,"time":"2022-11-08T13:43:35.295Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
-{"level":30,"time":"2022-11-08T13:43:35.295Z","pid":20260,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
+{"level":30,"time":"2022-11-15T12:28:51.252Z","pid":19640,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
+{"level":30,"time":"2022-11-15T12:28:51.252Z","pid":19640,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
 ================= Original suppressed error =================
 Error: Could not find active page
     at exists (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
@@ -698,8 +698,8 @@ Error: Could not find active page
     at handleUnary (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:718:13)
     at processTicksAndRejections (node:internal/process/task_queues:96:5)
 =============================================================
-{"level":30,"time":"2022-11-08T13:43:35.310Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
-{"level":30,"time":"2022-11-08T13:43:35.310Z","pid":20260,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
+{"level":30,"time":"2022-11-15T12:28:51.267Z","pid":19640,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
+{"level":30,"time":"2022-11-15T12:28:51.267Z","pid":19640,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
 ================= Original suppressed error =================
 Error: Could not find active page
     at exists (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
@@ -709,8 +709,8 @@ Error: Could not find active page
     at handleUnary (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:718:13)
     at processTicksAndRejections (node:internal/process/task_queues:96:5)
 =============================================================
-{"level":30,"time":"2022-11-08T13:43:35.326Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
-{"level":30,"time":"2022-11-08T13:43:35.326Z","pid":20260,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
+{"level":30,"time":"2022-11-15T12:28:51.281Z","pid":19640,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
+{"level":30,"time":"2022-11-15T12:28:51.282Z","pid":19640,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
 ================= Original suppressed error =================
 Error: Could not find active page
     at exists (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
@@ -720,8 +720,8 @@ Error: Could not find active page
     at handleUnary (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:718:13)
     at processTicksAndRejections (node:internal/process/task_queues:96:5)
 =============================================================
-{"level":30,"time":"2022-11-08T13:43:35.342Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
-{"level":30,"time":"2022-11-08T13:43:35.342Z","pid":20260,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
+{"level":30,"time":"2022-11-15T12:28:51.298Z","pid":19640,"hostname":"SELNK1350000208","msg":"Start of node method getText"}
+{"level":30,"time":"2022-11-15T12:28:51.298Z","pid":19640,"hostname":"SELNK1350000208","msg":"Error of node method  getText"}
 ================= Original suppressed error =================
 Error: Could not find active page
     at exists (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
@@ -731,8 +731,8 @@ Error: Could not find active page
     at handleUnary (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:718:13)
     at processTicksAndRejections (node:internal/process/task_queues:96:5)
 =============================================================
-{"level":30,"time":"2022-11-08T13:43:35.346Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method takeScreenshot"}
-{"level":30,"time":"2022-11-08T13:43:35.347Z","pid":20260,"hostname":"SELNK1350000208","msg":"Error of node method  takeScreenshot"}
+{"level":30,"time":"2022-11-15T12:28:51.303Z","pid":19640,"hostname":"SELNK1350000208","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2022-11-15T12:28:51.304Z","pid":19640,"hostname":"SELNK1350000208","msg":"Error of node method  takeScreenshot"}
 ================= Original suppressed error =================
 Error: Tried to take screenshot, but no page was open.
     at exists (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
@@ -741,9 +741,9 @@ Error: Tried to take screenshot, but no page was open.
     at handleUnary (C:\Users\wruoppa\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:718:13)
     at processTicksAndRejections (node:internal/process/task_queues:96:5)
 =============================================================
-{"level":30,"time":"2022-11-08T13:44:05.571Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getBrowserCatalog"}
-{"level":30,"time":"2022-11-08T13:44:05.572Z","pid":20260,"hostname":"SELNK1350000208","msg":"End of node method getBrowserCatalog"}
-{"level":30,"time":"2022-11-08T13:44:05.577Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method getBrowserCatalog"}
-{"level":30,"time":"2022-11-08T13:44:05.578Z","pid":20260,"hostname":"SELNK1350000208","msg":"End of node method getBrowserCatalog"}
-{"level":30,"time":"2022-11-08T13:44:05.616Z","pid":20260,"hostname":"SELNK1350000208","msg":"Start of node method closeAllBrowsers"}
-{"level":30,"time":"2022-11-08T13:44:05.692Z","pid":20260,"hostname":"SELNK1350000208","msg":"End of node method closeAllBrowsers"}
+{"level":30,"time":"2022-11-15T12:29:21.520Z","pid":19640,"hostname":"SELNK1350000208","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-11-15T12:29:21.521Z","pid":19640,"hostname":"SELNK1350000208","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-11-15T12:29:21.529Z","pid":19640,"hostname":"SELNK1350000208","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-11-15T12:29:21.529Z","pid":19640,"hostname":"SELNK1350000208","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-11-15T12:29:21.603Z","pid":19640,"hostname":"SELNK1350000208","msg":"Start of node method closeAllBrowsers"}
+{"level":30,"time":"2022-11-15T12:29:21.737Z","pid":19640,"hostname":"SELNK1350000208","msg":"End of node method closeAllBrowsers"}

@@ -15,7 +15,7 @@ ${npm}    npm    start
 
 *** Test Cases ***
 Localhost Test
-    Start Process    npm start    shell=True    cwd=${CURDIR}/../backv2/
+    Start Process    npm start    cwd=${CURDIR}${/}..${/}backv2${/}    shell=True
     Sleep    20 seconds
     Start Process    npm start    shell=True
     Sleep    20 seconds
