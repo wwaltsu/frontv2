@@ -10,7 +10,7 @@ const App = () => {
 
   const [foods, setFoods] = useState([])
   useEffect(() => { 
-  axios.get('http://localhost:3001/menu').then(response => {
+  axios.get('localhost:3001/menu').then(response => {
     console.log(response);
     setFoods(response.data.items)
 }).catch(e => {
